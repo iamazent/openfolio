@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:02:22.134569",
+  "generated_at": "2026-10-15T02:42:23.617217",
   "overall": {
     "total_commits": 1,
     "total_prs": 5,
@@ -15,7 +15,7 @@
     "issue_closure_rate": 100.0
   },
   "streaks": {
-    "current_streak": 1,
+    "current_streak": 0,
     "longest_streak": 1,
     "last_contribution": "2026-10-13"
   },
