@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-10-20T02:55:35.332695",
-    "username": "openvinod"
+    "last_updated": "2026-10-21T02:50:00.255326",
+    "username": "oopsvinod"
   },
   "commits": [
     {
-      "repository": "openvinod/openliate",
-      "repo_url": "https://github.com/openvinod/openliate",
+      "repository": "oopsvinod/openliate",
+      "repo_url": "https://github.com/oopsvinod/openliate",
       "sha": "13cfbb3",
       "message": "birth: Liate Foundation — Day 0 · Class is an Agent. Agent is an API.",
       "date": "2026-10-13T05:59:52+00:00",
-      "url": "https://github.com/openvinod/openliate/commit/13cfbb345dcf9ca542f7f2141cfdb85272e0bee5"
+      "url": "https://github.com/oopsvinod/openliate/commit/13cfbb345dcf9ca542f7f2141cfdb85272e0bee5"
     }
   ],
   "pull_requests": [
@@ -87,8 +87,8 @@
   "repositories": [
     {
       "name": "chroma",
-      "full_name": "openvinod/chroma",
-      "url": "https://github.com/openvinod/chroma",
+      "full_name": "oopsvinod/chroma",
+      "url": "https://github.com/oopsvinod/chroma",
       "description": "Open-source search and retrieval database for AI applications.",
       "stars": 0,
       "forks": 0,
@@ -99,8 +99,8 @@
     },
     {
       "name": "cursor",
-      "full_name": "openvinod/cursor",
-      "url": "https://github.com/openvinod/cursor",
+      "full_name": "oopsvinod/cursor",
+      "url": "https://github.com/oopsvinod/cursor",
       "description": "The AI Code Editor",
       "stars": 0,
       "forks": 0,
@@ -111,8 +111,8 @@
     },
     {
       "name": "DeepCode",
-      "full_name": "openvinod/DeepCode",
-      "url": "https://github.com/openvinod/DeepCode",
+      "full_name": "oopsvinod/DeepCode",
+      "url": "https://github.com/oopsvinod/DeepCode",
       "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
       "stars": 0,
       "forks": 0,
@@ -123,8 +123,8 @@
     },
     {
       "name": "dify",
-      "full_name": "openvinod/dify",
-      "url": "https://github.com/openvinod/dify",
+      "full_name": "oopsvinod/dify",
+      "url": "https://github.com/oopsvinod/dify",
       "description": "Production-ready platform for agentic workflow development.",
       "stars": 0,
       "forks": 0,
@@ -135,8 +135,8 @@
     },
     {
       "name": "dify-docs",
-      "full_name": "openvinod/dify-docs",
-      "url": "https://github.com/openvinod/dify-docs",
+      "full_name": "oopsvinod/dify-docs",
+      "url": "https://github.com/oopsvinod/dify-docs",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -147,8 +147,8 @@
     },
     {
       "name": "elepcode-test",
-      "full_name": "openvinod/elepcode-test",
-      "url": "https://github.com/openvinod/elepcode-test",
+      "full_name": "oopsvinod/elepcode-test",
+      "url": "https://github.com/oopsvinod/elepcode-test",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -159,8 +159,8 @@
     },
     {
       "name": "n8n",
-      "full_name": "openvinod/n8n",
-      "url": "https://github.com/openvinod/n8n",
+      "full_name": "oopsvinod/n8n",
+      "url": "https://github.com/oopsvinod/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "stars": 0,
       "forks": 0,
@@ -171,20 +171,20 @@
     },
     {
       "name": "openfolio",
-      "full_name": "openvinod/openfolio",
-      "url": "https://github.com/openvinod/openfolio",
+      "full_name": "oopsvinod/openfolio",
+      "url": "https://github.com/oopsvinod/openfolio",
       "description": "A comprehensive portfolio showcasing my open source contributions - commits, PRs, issues, forks, and more. Auto-updated with GitHub Actions.",
       "stars": 0,
       "forks": 0,
       "is_fork": false,
       "language": "Python",
       "created_at": "2025-10-16T06:08:43+00:00",
-      "updated_at": "2026-10-19T02:44:43+00:00"
+      "updated_at": "2026-10-20T02:55:54+00:00"
     },
     {
       "name": "openliate",
-      "full_name": "openvinod/openliate",
-      "url": "https://github.com/openvinod/openliate",
+      "full_name": "oopsvinod/openliate",
+      "url": "https://github.com/oopsvinod/openliate",
       "description": "LIATE | [L] Llm - [I] Integration - [A] Agent - [T] Tools - [E] Environment | Let's Try Liate - Run Millions of AI Agents on Edge Cloud. Free Forever.",
       "stars": 0,
       "forks": 0,
@@ -195,8 +195,8 @@
     },
     {
       "name": "openrea",
-      "full_name": "openvinod/openrea",
-      "url": "https://github.com/openvinod/openrea",
+      "full_name": "oopsvinod/openrea",
+      "url": "https://github.com/oopsvinod/openrea",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -207,8 +207,8 @@
     },
     {
       "name": "parlant",
-      "full_name": "openvinod/parlant",
-      "url": "https://github.com/openvinod/parlant",
+      "full_name": "oopsvinod/parlant",
+      "url": "https://github.com/oopsvinod/parlant",
       "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
       "stars": 0,
       "forks": 0,
@@ -219,8 +219,8 @@
     },
     {
       "name": "transformers",
-      "full_name": "openvinod/transformers",
-      "url": "https://github.com/openvinod/transformers",
+      "full_name": "oopsvinod/transformers",
+      "url": "https://github.com/oopsvinod/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "stars": 0,
       "forks": 0,
