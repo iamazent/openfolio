@@ -1,18 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-21T02:50:00.255326",
-    "username": "oopsvinod"
+    "last_updated": "2026-10-22T02:48:49.163326",
+    "username": "solovinod"
   },
-  "commits": [
-    {
-      "repository": "oopsvinod/openliate",
-      "repo_url": "https://github.com/oopsvinod/openliate",
-      "sha": "13cfbb3",
-      "message": "birth: Liate Foundation — Day 0 · Class is an Agent. Agent is an API.",
-      "date": "2026-10-13T05:59:52+00:00",
-      "url": "https://github.com/oopsvinod/openliate/commit/13cfbb345dcf9ca542f7f2141cfdb85272e0bee5"
-    }
-  ],
+  "commits": [],
   "pull_requests": [
     {
       "repository": "HKUDS/DeepCode",
@@ -87,8 +78,8 @@
   "repositories": [
     {
       "name": "chroma",
-      "full_name": "oopsvinod/chroma",
-      "url": "https://github.com/oopsvinod/chroma",
+      "full_name": "solovinod/chroma",
+      "url": "https://github.com/solovinod/chroma",
       "description": "Open-source search and retrieval database for AI applications.",
       "stars": 0,
       "forks": 0,
@@ -99,8 +90,8 @@
     },
     {
       "name": "cursor",
-      "full_name": "oopsvinod/cursor",
-      "url": "https://github.com/oopsvinod/cursor",
+      "full_name": "solovinod/cursor",
+      "url": "https://github.com/solovinod/cursor",
       "description": "The AI Code Editor",
       "stars": 0,
       "forks": 0,
@@ -111,8 +102,8 @@
     },
     {
       "name": "DeepCode",
-      "full_name": "oopsvinod/DeepCode",
-      "url": "https://github.com/oopsvinod/DeepCode",
+      "full_name": "solovinod/DeepCode",
+      "url": "https://github.com/solovinod/DeepCode",
       "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
       "stars": 0,
       "forks": 0,
@@ -123,8 +114,8 @@
     },
     {
       "name": "dify",
-      "full_name": "oopsvinod/dify",
-      "url": "https://github.com/oopsvinod/dify",
+      "full_name": "solovinod/dify",
+      "url": "https://github.com/solovinod/dify",
       "description": "Production-ready platform for agentic workflow development.",
       "stars": 0,
       "forks": 0,
@@ -135,8 +126,8 @@
     },
     {
       "name": "dify-docs",
-      "full_name": "oopsvinod/dify-docs",
-      "url": "https://github.com/oopsvinod/dify-docs",
+      "full_name": "solovinod/dify-docs",
+      "url": "https://github.com/solovinod/dify-docs",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -147,8 +138,8 @@
     },
     {
       "name": "elepcode-test",
-      "full_name": "oopsvinod/elepcode-test",
-      "url": "https://github.com/oopsvinod/elepcode-test",
+      "full_name": "solovinod/elepcode-test",
+      "url": "https://github.com/solovinod/elepcode-test",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -158,9 +149,21 @@
       "updated_at": "2026-01-10T19:13:53+00:00"
     },
     {
+      "name": "liate",
+      "full_name": "solovinod/liate",
+      "url": "https://github.com/solovinod/liate",
+      "description": "",
+      "stars": 0,
+      "forks": 0,
+      "is_fork": false,
+      "language": "Unknown",
+      "created_at": "2026-10-21T22:48:37+00:00",
+      "updated_at": "2026-10-21T22:48:38+00:00"
+    },
+    {
       "name": "n8n",
-      "full_name": "oopsvinod/n8n",
-      "url": "https://github.com/oopsvinod/n8n",
+      "full_name": "solovinod/n8n",
+      "url": "https://github.com/solovinod/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "stars": 0,
       "forks": 0,
@@ -171,32 +174,20 @@
     },
     {
       "name": "openfolio",
-      "full_name": "oopsvinod/openfolio",
-      "url": "https://github.com/oopsvinod/openfolio",
+      "full_name": "solovinod/openfolio",
+      "url": "https://github.com/solovinod/openfolio",
       "description": "A comprehensive portfolio showcasing my open source contributions - commits, PRs, issues, forks, and more. Auto-updated with GitHub Actions.",
       "stars": 0,
       "forks": 0,
       "is_fork": false,
       "language": "Python",
       "created_at": "2025-10-16T06:08:43+00:00",
-      "updated_at": "2026-10-20T02:55:54+00:00"
-    },
-    {
-      "name": "openliate",
-      "full_name": "oopsvinod/openliate",
-      "url": "https://github.com/oopsvinod/openliate",
-      "description": "LIATE | [L] Llm - [I] Integration - [A] Agent - [T] Tools - [E] Environment | Let's Try Liate - Run Millions of AI Agents on Edge Cloud. Free Forever.",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Unknown",
-      "created_at": "2026-10-12T14:41:36+00:00",
-      "updated_at": "2026-10-13T10:08:07+00:00"
+      "updated_at": "2026-10-21T02:50:19+00:00"
     },
     {
       "name": "openrea",
-      "full_name": "oopsvinod/openrea",
-      "url": "https://github.com/oopsvinod/openrea",
+      "full_name": "solovinod/openrea",
+      "url": "https://github.com/solovinod/openrea",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -207,8 +198,8 @@
     },
     {
       "name": "parlant",
-      "full_name": "oopsvinod/parlant",
-      "url": "https://github.com/oopsvinod/parlant",
+      "full_name": "solovinod/parlant",
+      "url": "https://github.com/solovinod/parlant",
       "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
       "stars": 0,
       "forks": 0,
@@ -219,8 +210,8 @@
     },
     {
       "name": "transformers",
-      "full_name": "oopsvinod/transformers",
-      "url": "https://github.com/oopsvinod/transformers",
+      "full_name": "solovinod/transformers",
+      "url": "https://github.com/solovinod/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "stars": 0,
       "forks": 0,
@@ -231,7 +222,7 @@
     }
   ],
   "statistics": {
-    "total_commits": 1,
+    "total_commits": 0,
     "total_prs": 5,
     "total_issues": 1,
     "total_repositories": 12,
