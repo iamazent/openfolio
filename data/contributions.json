@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-26T02:39:01.160465",
-    "username": "solovinod"
+    "last_updated": "2026-10-27T03:13:51.598645",
+    "username": "iamazent"
   },
   "commits": [],
   "pull_requests": [
@@ -78,8 +78,8 @@
   "repositories": [
     {
       "name": "chroma",
-      "full_name": "solovinod/chroma",
-      "url": "https://github.com/solovinod/chroma",
+      "full_name": "iamazent/chroma",
+      "url": "https://github.com/iamazent/chroma",
       "description": "Open-source search and retrieval database for AI applications.",
       "stars": 0,
       "forks": 0,
@@ -90,8 +90,8 @@
     },
     {
       "name": "cursor",
-      "full_name": "solovinod/cursor",
-      "url": "https://github.com/solovinod/cursor",
+      "full_name": "iamazent/cursor",
+      "url": "https://github.com/iamazent/cursor",
       "description": "The AI Code Editor",
       "stars": 0,
       "forks": 0,
@@ -102,8 +102,8 @@
     },
     {
       "name": "DeepCode",
-      "full_name": "solovinod/DeepCode",
-      "url": "https://github.com/solovinod/DeepCode",
+      "full_name": "iamazent/DeepCode",
+      "url": "https://github.com/iamazent/DeepCode",
       "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
       "stars": 0,
       "forks": 0,
@@ -114,8 +114,8 @@
     },
     {
       "name": "dify",
-      "full_name": "solovinod/dify",
-      "url": "https://github.com/solovinod/dify",
+      "full_name": "iamazent/dify",
+      "url": "https://github.com/iamazent/dify",
       "description": "Production-ready platform for agentic workflow development.",
       "stars": 0,
       "forks": 0,
@@ -126,8 +126,8 @@
     },
     {
       "name": "dify-docs",
-      "full_name": "solovinod/dify-docs",
-      "url": "https://github.com/solovinod/dify-docs",
+      "full_name": "iamazent/dify-docs",
+      "url": "https://github.com/iamazent/dify-docs",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -138,8 +138,8 @@
     },
     {
       "name": "elepcode-test",
-      "full_name": "solovinod/elepcode-test",
-      "url": "https://github.com/solovinod/elepcode-test",
+      "full_name": "iamazent/elepcode-test",
+      "url": "https://github.com/iamazent/elepcode-test",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -150,8 +150,8 @@
     },
     {
       "name": "n8n",
-      "full_name": "solovinod/n8n",
-      "url": "https://github.com/solovinod/n8n",
+      "full_name": "iamazent/n8n",
+      "url": "https://github.com/iamazent/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "stars": 0,
       "forks": 0,
@@ -162,20 +162,20 @@
     },
     {
       "name": "openfolio",
-      "full_name": "solovinod/openfolio",
-      "url": "https://github.com/solovinod/openfolio",
+      "full_name": "iamazent/openfolio",
+      "url": "https://github.com/iamazent/openfolio",
       "description": "A comprehensive portfolio showcasing my open source contributions - commits, PRs, issues, forks, and more. Auto-updated with GitHub Actions.",
       "stars": 0,
       "forks": 0,
       "is_fork": false,
       "language": "Python",
       "created_at": "2025-10-16T06:08:43+00:00",
-      "updated_at": "2026-10-25T02:41:26+00:00"
+      "updated_at": "2026-10-26T02:39:19+00:00"
     },
     {
       "name": "openrea",
-      "full_name": "solovinod/openrea",
-      "url": "https://github.com/solovinod/openrea",
+      "full_name": "iamazent/openrea",
+      "url": "https://github.com/iamazent/openrea",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -186,8 +186,8 @@
     },
     {
       "name": "parlant",
-      "full_name": "solovinod/parlant",
-      "url": "https://github.com/solovinod/parlant",
+      "full_name": "iamazent/parlant",
+      "url": "https://github.com/iamazent/parlant",
       "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
       "stars": 0,
       "forks": 0,
@@ -198,8 +198,8 @@
     },
     {
       "name": "transformers",
-      "full_name": "solovinod/transformers",
-      "url": "https://github.com/solovinod/transformers",
+      "full_name": "iamazent/transformers",
+      "url": "https://github.com/iamazent/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "stars": 0,
       "forks": 0,
