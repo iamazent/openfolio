@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-27T03:13:51.598645",
+    "last_updated": "2026-10-28T03:27:59.267638",
     "username": "iamazent"
   },
   "commits": [],
@@ -170,19 +170,7 @@
       "is_fork": false,
       "language": "Python",
       "created_at": "2025-10-16T06:08:43+00:00",
-      "updated_at": "2026-10-26T02:39:19+00:00"
-    },
-    {
-      "name": "openrea",
-      "full_name": "iamazent/openrea",
-      "url": "https://github.com/iamazent/openrea",
-      "description": "",
-      "stars": 0,
-      "forks": 0,
-      "is_fork": false,
-      "language": "Unknown",
-      "created_at": "2026-10-12T13:03:03+00:00",
-      "updated_at": "2026-10-12T13:03:04+00:00"
+      "updated_at": "2026-10-27T03:14:10+00:00"
     },
     {
       "name": "parlant",
@@ -213,12 +201,12 @@
     "total_commits": 0,
     "total_prs": 5,
     "total_issues": 1,
-    "total_repositories": 11,
+    "total_repositories": 10,
     "merged_prs": 1,
     "open_prs": 0,
     "closed_issues": 1,
     "open_issues": 0,
     "forked_repos": 8,
-    "own_repos": 3
+    "own_repos": 2
   }
 }
